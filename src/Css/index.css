@@ -1,0 +1,9 @@
+body {
+    margin: 5%;
+    background-color: rgb(112, 112, 236);
+}
+
+.container {
+    background: rgb(232,236,73);
+background: linear-gradient(0deg, rgba(232,236,73,1) 0%, rgba(73,192,236,1) 100%);
+}
